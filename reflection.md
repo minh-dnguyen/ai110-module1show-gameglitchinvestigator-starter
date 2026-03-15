@@ -11,7 +11,7 @@ Answer each question in 3 to 5 sentences. Be specific and honest about what actu
 * Score calculated incorrectly
 
 - List at least two concrete bugs you noticed at the start  
-  (for example: "the secret number kept changing" or "the hints were backwards").
+  (for example: "the hints were backwards").
 
 * The hints were backwards
 
@@ -58,9 +58,7 @@ Yes. Claude 4.5 helped me design the test suite strategy: (1) Create boundary te
 
 ## 4. What did you learn about Streamlit and state?
 
-- In your own words, explain why the secret number kept changing in the original app.
 - How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
-- What change did you make that finally gave the game a stable secret number?
 
 ---
 
